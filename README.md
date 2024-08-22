@@ -38,7 +38,7 @@ A brief description of the project, highlighting technologies used and any notab
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&line_height=21&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=empayam&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&line_height=21&theme=radical)
 
 ## Languages and Tools
 
