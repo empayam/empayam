@@ -54,7 +54,7 @@ A brief description of the project, highlighting technologies used and any notab
 
 ## Fun Fact
 
-Did you know? [Insert a fun fact about yourself or a quirky coding habit]
+I find myself confronted by an endless void of unresolved matters, leaving me uncertain about where to begin addressing them
 
 ---
 
