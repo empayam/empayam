@@ -4,12 +4,8 @@
 
 I'm a **Full-Stack Developer** specializing in both front-end and back-end technologies. With a strong foundation in **PHP**, **WordPress**, and **Laravel**, I also have extensive experience with **Node.js**, **React**, and **Next.js**. Passionate about creating seamless user experiences and scalable applications, I enjoy working with a variety of tools and frameworks.
 
-- 🔭 I’m currently working on [project name or link]
-- 🌱 I’m currently learning more about [technology or skill]
-- 👯 I’m looking to collaborate on open-source projects involving [specific technology or type of project]
-- 🤔 I’m looking for help with [specific area]
-- 💬 Ask me about **PHP**, **WordPress**, **Laravel**, **Node.js**, **React**, **Next.js**, and **front-end development**.
-- 📫 How to reach me: [Your Email] or [LinkedIn Profile]
+- 🔭 I’m currently working on Fanavaran & Digikala Content Platform
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/payam-mahjoub-72b87a91/)
 
 ## Skills
 
