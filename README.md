@@ -7,31 +7,6 @@ I'm a **Full-Stack Developer** specializing in both front-end and back-end techn
 - 🔭 I’m currently working on Fanavaran & Digikala Content Platform
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/payam-mahjoub-72b87a91/)
 
-## Skills
-
-### Front-End
-- **HTML5**, **CSS3**, **JavaScript**
-- **React**, **Next.js**
-- **Sass**, **Bootstrap**, **UI Kit**, **Semantic UI**, **Materialize CSS**, **Tailwind CSS**
-
-### Back-End
-- **PHP**, **Laravel**
-- **Node.js**
-- **WordPress Development**
-
-### Tools & Technologies
-- **Git**, **GitHub**
-- **Docker**
-- **Webpack**, **Babel**
-
-## Projects
-
-### 🛠️ [Project Name](Link to Project)
-A brief description of the project, highlighting technologies used and any notable features.
-
-### 🛠️ [Another Project Name](Link to Project)
-A brief description of the project, highlighting technologies used and any notable features.
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=empayam&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&line_height=21&theme=radical)
