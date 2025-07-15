@@ -11,11 +11,15 @@ I'm a **Full-Stack Developer** specializing in both front-end and back-end techn
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=empayam&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&line_height=21&theme=radical)
 
+### 🧠 AI Experience
+- 🤖 AI Agents & Bots
+- 🛠️ Tools: LangChain, OpenAI API, GPT Agents, RAG, etc.
+
 ## Languages and Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-![Tech Stack](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,react,nextjs,vue,nuxt,java,spring,maven,html,css,js,sass,bootstrap,tailwind,materialui,semanticui)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,react,nextjs,vue,nuxt,java,spring,maven,python,django,html,css,js,sass,bootstrap,tailwind,materialui,semanticui)
 
 ## Connect with Me
 
