@@ -11,21 +11,25 @@ I'm a **Full-Stack Developer** specializing in both front-end and back-end techn
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=empayam&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&line_height=21&theme=radical)
 
-### 🧠 AI Experience
+## 🧠 AI Experience
 - 🤖 AI Agents & Bots
-- 🛠️ Tools: LangChain, OpenAI API, GPT Agents, RAG, etc.
+- 🛠️ Tools: LangChain, OpenAI API, GPT Agents, RAG pipelines, vector databases
+
+## 📱 Mobile Development
+- 📦 Flutter (cross-platform)
+- ⚛️ React Native
+- 📲 Native Android & iOS apps
 
 ## Languages and Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-![Tech Stack](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,react,nextjs,vue,nuxt,java,spring,maven,python,django,html,css,js,sass,bootstrap,tailwind,materialui,semanticui)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,react,reactnative,nextjs,vue,nuxt,java,spring,maven,python,django,flutter,androidstudio,html,css,js,sass,bootstrap,tailwind,materialui,semanticui)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](Your LinkedIn URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](Your Twitter URL)
-[![Email](https://img.shields.io/badge/Email-YourEmail-orange)](mailto:YourEmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/payam-mahjoub-72b87a91/)
+[![Email](https://img.shields.io/badge/Email-YourEmail-orange)](mailto:payam.mahjoub@gmail.com)
 
 ## Fun Fact
 
