@@ -24,7 +24,7 @@ I'm a **Full-Stack Developer** specializing in both front-end and back-end techn
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-![Tech Stack](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,react,reactnative,firebase,nextjs,vue,nuxt,java,spring,maven,python,django,flutter,androidstudio,html,css,js,sass,bootstrap,tailwind,materialui,semanticui)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,react,firebase,nextjs,vue,nuxt,java,spring,maven,python,django,flutter,androidstudio,html,css,js,sass,bootstrap,tailwind,materialui,semanticui)
 
 ## Connect with Me
 
