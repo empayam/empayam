@@ -1,4 +1,4 @@
-# Hello, I'm Payam 🧟‍♂️
+# I'm Payam 🧟‍♂️
 
 ## About Me
 
